@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Touseeq ali",
+        "phone": 231232312,
+        "address": "Khushab",
+        "country": "Pakistan"
+    },{
+        "id": 2,
+        "name": "Raamzan",
+        "phone": 231232312,
+        "address": "Khushab",
+        "country": "Pakistan"
+    }
+    ,{
+        "id": 3,
+        "name": "Touseeq ",
+        "phone": 231232312,
+        "address": "Khushab",
+        "country": "Pakistan"
+    },{
+        "id": 4,
+        "name": "Aslam",
+        "phone": 231232312,
+        "address": "Khushab",
+        "country": "Pakistan"
+    }
+]

@@ -1,0 +1,336 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "imageUrl": "https://snetinfo.in/wp-content/uploads/2021/01/Contemporary-home-design-with-classy-interior.jpg",
+      "title": "‘1 my Kanal House for sale’",
+      "address": "‘DHA Phase 1, Lahore’",
+      "beds": 2,
+      "bath": 3,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 61000000
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://snetinfo.in/wp-content/uploads/2021/06/Nalukettu-style-Kerala-home-with-nice-looking-outside-view.jpg",
+     
+      "title": "‘2 Kanal House for sale’",
+      "address": "‘DHA Phase 2, Lahore’",
+      "beds": 3,
+      "bath": 4,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 62000000
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://snetinfo.in/wp-content/uploads/2021/03/5-bedroom-modern-home-with-two-balconies.jpg",
+      "title": "‘3 Kanal House for sale’",
+      "address": "‘DHA Phase 3, Lahore’",
+      "beds": 4,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘my house’",
+      "price": 65000000
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.pinimg.com/originals/5e/38/f1/5e38f169ba4cf20fd8d436503c0a8405.jpg",
+      "title": "‘4 Kanal House for sale’",
+      "address": "‘DHA Phase 4, Lahore’",
+      "beds": 3,
+      "bath": 5,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 63000000
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.moldexrealty.ph/wp-content/uploads/2018/09/ADRIANA-House-Model-5-10-18.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 6,
+      "bath": 7,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJoCDsksrNixynr80gdK05XSfdsaNizcFN-A&usqp=CAU",
+      "title": "‘1 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 68000000
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQqRm2QLHM3mXGGWDYmSkdUjbF0TDnz67nAg&usqp=CAU",
+      "title": "‘2 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 8,
+      "bath": 2,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 69000000
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-E4X5GPVUUzOwQBL7RzVZYKf07JTa47u2g&usqp=CAU",
+      "title": "‘3 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 51,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 70000000
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPfqkvh9xhJGnbwL6G1xF1BhFYj9bW_aVdhg&usqp=CAU",
+      "title": "‘4 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 15,
+      "bath": 3,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 71000000
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsl2cJMSSlwezFKK6Gs3BPDNd_8BK2N03ekw&usqp=CAU",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 15,
+      "bath": 16,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 72000000
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqOrhsjZlB8SHr8IM5H4lrkSXAcquchSKnA&usqp=CAU",
+      "title": "‘1 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 25,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 73000000
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://snetinfo.in/wp-content/uploads/2021/06/Nalukettu-style-Kerala-home-with-nice-looking-outside-view.jpg",
+      "title": "‘2 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 10,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 74000000
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqOrhsjZlB8SHr8IM5H4lrkSXAcquchSKnA&usqp=CAU",
+      "title": "‘3 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 20,
+      "bath": 4,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 75000000
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://i.pinimg.com/originals/5e/38/f1/5e38f169ba4cf20fd8d436503c0a8405.jpg",
+      "title": "‘4 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://snetinfo.in/wp-content/uploads/2021/06/Nalukettu-style-Kerala-home-with-nice-looking-outside-view.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqOrhsjZlB8SHr8IM5H4lrkSXAcquchSKnA&usqp=CAU",
+      "title": "‘1 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://i.pinimg.com/originals/5e/38/f1/5e38f169ba4cf20fd8d436503c0a8405.jpg",
+      "title": "‘2 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://snetinfo.in/wp-content/uploads/2021/06/Nalukettu-style-Kerala-home-with-nice-looking-outside-view.jpg",
+      "title": "‘3 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqOrhsjZlB8SHr8IM5H4lrkSXAcquchSKnA&usqp=CAU",
+      "title": "‘4 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://i.pinimg.com/originals/5e/38/f1/5e38f169ba4cf20fd8d436503c0a8405.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    }
+    ,
+    {
+      "id": 21,
+      "imageUrl": "https://snetinfo.in/wp-content/uploads/2021/06/Nalukettu-style-Kerala-home-with-nice-looking-outside-view.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://i.pinimg.com/originals/5e/38/f1/5e38f169ba4cf20fd8d436503c0a8405.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqOrhsjZlB8SHr8IM5H4lrkSXAcquchSKnA&usqp=CAU",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://i.pinimg.com/originals/5e/38/f1/5e38f169ba4cf20fd8d436503c0a8405.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://snetinfo.in/wp-content/uploads/2021/06/Nalukettu-style-Kerala-home-with-nice-looking-outside-view.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 26,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqOrhsjZlB8SHr8IM5H4lrkSXAcquchSKnA&usqp=CAU",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 27,
+      "imageUrl": "https://i.pinimg.com/originals/5e/38/f1/5e38f169ba4cf20fd8d436503c0a8405.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 28,
+      "imageUrl": "https://snetinfo.in/wp-content/uploads/2021/06/Nalukettu-style-Kerala-home-with-nice-looking-outside-view.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 29,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqOrhsjZlB8SHr8IM5H4lrkSXAcquchSKnA&usqp=CAU",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    },
+    {
+      "id": 30,
+      "imageUrl": "https://i.pinimg.com/originals/5e/38/f1/5e38f169ba4cf20fd8d436503c0a8405.jpg",
+      "title": "‘5 Kanal House for sale’",
+      "address": "‘DHA Phase 6, Lahore’",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "‘house’",
+      "price": 65000000
+    }
+  ]
+}
