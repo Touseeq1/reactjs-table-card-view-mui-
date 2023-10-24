@@ -1,3 +1,10 @@
+
+Hi sir I hope you are doing well, i completed this assessment/test using React js (MUI), React Rouster dom(v6), React table(v8), 
+You can run this by simply typing ( npm i ) in the terminal to install node-modules.
+Local host that You can run this by simply typing ( npx json-server --watch db.json --port 3333 ) in the terminal.
+
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
